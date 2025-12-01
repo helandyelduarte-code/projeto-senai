@@ -39,5 +39,24 @@ li{
    flex-direction: row;
    margin: 40px;
    gap: 40%;
-
+}
+.caixa-geral{
+ 
+}
+.caixa-1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+}
+.caixa-sup{
+    justify-content: center;
+    display: flex;
+    align-items: start;
+}
+.btn{
+    border: 1px solid black;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 10px;
 }
